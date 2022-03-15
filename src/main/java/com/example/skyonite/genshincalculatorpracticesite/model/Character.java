@@ -17,7 +17,11 @@ public class Character {
 
     private String name;
 
-    private String talents;
+    private String talent1;
+
+    private String talent2;
+
+    private String talent3;
 
 
 
