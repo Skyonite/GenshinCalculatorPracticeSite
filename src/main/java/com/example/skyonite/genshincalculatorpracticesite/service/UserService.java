@@ -1,6 +1,4 @@
 package com.example.skyonite.genshincalculatorpracticesite.service;
 
-public interface CharacterService {
-
-    
+public interface UserService {
 }
