@@ -17,6 +17,14 @@ public class CharacterBuild {
     @ManyToOne
     private User owner;
 
+    private int level;
+    private int totalAtk;
+    private int energyRecharge;
+    private int damageMultiplier;
+    private int healingBonus;
+    private int critRate;
+    private int critDamage;
+
 
 
 }
