@@ -21,8 +21,6 @@ public class Character {
 
     private String talent3;
 
-
-
     public Character() {
     }
 }
