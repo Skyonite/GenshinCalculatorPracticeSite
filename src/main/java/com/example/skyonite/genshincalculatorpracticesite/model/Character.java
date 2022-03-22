@@ -23,4 +23,11 @@ public class Character {
 
     public Character() {
     }
+
+    public Character(String name, String talent1, String talent2, String talent3) {
+        this.name = name;
+        this.talent1 = talent1;
+        this.talent2 = talent2;
+        this.talent3 = talent3;
+    }
 }
